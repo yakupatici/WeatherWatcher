@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Hava Durumu Takip
+
+  Created by Yakup Atici on 26.08.2024.
+  
+*/
+
+"no_favorites_message" = "You haven't added any cities or regions to your favorites yet. Go to the top right corner to add.";
+"remove_favorite_alert_title" = "Remove from Favorites";
+"remove_favorite_alert_message" = "Do you want to remove %@ from your favorites?";
+"cancel" = "Cancel";
+"remove" = "Remove";
+"city_added_alert_title" = "Already Added";
+"city_added_alert_message" = "%@ is already in your favorites";
+"ok" = "OK";
